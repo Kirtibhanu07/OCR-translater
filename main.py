@@ -1,7 +1,6 @@
 import streamlit as st
 import easyocr
 #from googletrans import Translator
-from gtts import gTTS
 from PIL import Image
 import numpy as np
 from googletrans import Translator
