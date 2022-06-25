@@ -1,5 +1,5 @@
 # OCR-translater and Summarizer
-# Our Engineers are Resting...Do no crash the website!!!  
+**Our Engineers are Resting...Do no crash the website!!!**
 
 - We have used EasyOCR to detect multiple languages and perform Character Recognition on the given image.
 - Using google-trans-new and googletrans, we have implemented direct translation from the given image to any of the selected language.
