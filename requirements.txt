@@ -1,4 +1,6 @@
 streamlit
+spacy-legacy==3.0.9,<3.1.0
+spacy-loggers==1.0.0,<2.0.0
 requests
 google-trans-new
 easyocr
